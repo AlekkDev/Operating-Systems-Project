@@ -1,0 +1,12 @@
+total 32
+-rw-r--r-- 1 alekk alekk   557 Feb  2 14:10 Makefile
+-rwxr-xr-x 1 alekk alekk 17816 Feb  2 14:17 imcsh
+-rw-r--r-- 1 alekk alekk  4261 Feb  2 14:16 imcsh.c
+-rw-r--r-- 1 alekk alekk     0 Feb  2 14:17 output.txt
+-rw-r--r-- 1 alekk alekk     0 Feb  2 14:06 readme.md
+total 36
+-rw-r--r-- 1 alekk alekk   557 Feb  2 14:10 Makefile
+-rwxr-xr-x 1 alekk alekk 17816 Feb  2 14:17 imcsh
+-rw-r--r-- 1 alekk alekk  4261 Feb  2 14:16 imcsh.c
+-rw-r--r-- 1 alekk alekk   273 Feb  2 14:17 output.txt
+-rw-r--r-- 1 alekk alekk     0 Feb  2 14:06 readme.md
